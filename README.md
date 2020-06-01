@@ -1,2 +1,2 @@
 ## Sum of Natural Numbers (JAVA):
-### In this pr
+### In this progr

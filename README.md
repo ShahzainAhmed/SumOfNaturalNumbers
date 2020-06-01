@@ -1,2 +1,1 @@
-# SumOfNaturalNumbers
-program to find the sum of natural numbers.
+## Sum of Natural Numbers:

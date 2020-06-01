@@ -4,6 +4,7 @@
 
 public class SumOfNaturalNums {
 
+    // This is the main method.
     public static void main(String[] args) {
 
        int num = 10, count = 1, total = 0;

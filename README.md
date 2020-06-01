@@ -5,3 +5,4 @@
 - Integer variables.
 - Counter variables.
 - While loop.
+- Increment/Decrement operators.

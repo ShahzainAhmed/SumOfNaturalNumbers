@@ -6,3 +6,4 @@
 - Counter variables.
 - While loop.
 - Increment/Decrement operators.
+- Print statement.

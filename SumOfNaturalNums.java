@@ -11,7 +11,6 @@ public class SumOfNaturalNums {
 
         // Using while loop
        while(count <= num)
-           
        {
            total = total + count;
            count++; // Using increment operator.

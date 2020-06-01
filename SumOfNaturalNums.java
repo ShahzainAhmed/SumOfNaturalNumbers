@@ -1,3 +1,5 @@
+// Program to create Sum of Natural Numbers.
+
 public class SumOfNaturalNums {
 
     public static void main(String[] args) {

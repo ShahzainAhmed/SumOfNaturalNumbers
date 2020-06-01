@@ -1,2 +1,2 @@
-## Sum of Natural Numbers:
-### In 
+## Sum of Natural Numbers (JAVA):
+### In

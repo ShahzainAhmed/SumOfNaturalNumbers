@@ -9,7 +9,9 @@ public class SumOfNaturalNums {
 
        int num = 10, count = 1, total = 0;
 
+        // Using while loop
        while(count <= num)
+           
        {
            total = total + count;
            count++;

@@ -16,7 +16,8 @@ public class SumOfNaturalNums {
            total = total + count;
            count++; // Using increment operator.
        }
-
+        
+// Using print statement to print the sum of first 10 natural numbers.
        System.out.println("Sum of First 10 natural numbers is: "+total);
     }
 }

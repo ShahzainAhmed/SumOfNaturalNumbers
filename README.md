@@ -3,3 +3,4 @@
 
 #### To understand the program, you should have the following concepts in mind:
 - Integer variables.
+- Counter variables.
